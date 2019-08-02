@@ -1,0 +1,17 @@
+.vscode
+.vs
+.idea
+*.gitkeep
+node_modules/
+build/
+*.iml
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+src/**/*.js
+src/**/*.js.map
+typings
+dist
