@@ -50,7 +50,7 @@
     "tslint-react-hooks": "~2.1",
     "typescript": "~3.5",
     "webpack": "~4.26",
-    "webpack-bundle-analyzer": "~3.0",
+    "webpack-bundle-analyzer": "~3.3",
     "webpack-cli": "~3"
   },
   "peerDependencies": {
